@@ -1,0 +1,121 @@
+.button{
+    /* margin-left: 200px;
+   justify-content: center;
+   display: flex;  */
+   background-color: rgb(0, 0, 0);
+   /* width: 297px; */
+   height: 250px;
+   margin-left: 3px;
+  
+}
+.main{
+    background-color: black;
+    height: 570px;
+    width: 270px;
+    margin-left: 500px;
+    border-radius: 20px 20px 20px 20px ;
+}
+.input{
+    text-align: end;
+    width: 270px;
+    height: 500px;
+    /* background-color: aqua; */
+    border: none;
+    margin-top: 30px;
+    
+}
+.noborder{
+border: none;
+margin-top: 50px;
+height: 200px;
+background-color: rgb(0, 0, 0);
+color: rgb(247, 247, 247);
+width: 265px;
+text-align: end;
+font-size: 40PX;
+}
+.ac{
+color: rgb(0, 0, 0);
+border-style:none;
+background-color: rgb(172, 172, 172);
+width: 40px;
+height:40px;
+border-radius: 20px 20px 20px 20px ;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+     /* margin-left: 20px; */
+}
+.bu{
+    margin-left: 25px;
+    gap: 25px;
+    display: flex;
+}
+.but2{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    /* margin-left: 20px; */
+}
+.but3{
+    display: flex;
+    gap: 25px;
+    justify-content:center;
+    /* margin-left: 30px; */
+    /* background-color: aqua; */
+}
+.but4{
+    display: flex;
+    justify-content:center ;
+    gap: 25px;
+    /* margin-left: 10px; */
+}
+.but5{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-left: 85px;
+}
+.add{
+    background-color: yellow;
+    border-radius:20px 20px 20px 20px  ;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+    width: 40px;
+height:40px;
+}
+.sub{
+    background-color: yellow;
+    border-radius:20px 20px 20px 20px  ;
+    color: rgb(0, 0, 0);
+    font-style: oblique;width: 40px;
+    height:40px;
+}
+.mult{
+    background-color: yellow;
+    border-radius:20px 20px 20px 20px  ;
+    color: rgb(0, 0, 0);
+    width: 40px;
+    height:40px;
+}
+.equal{
+    background-color: yellow;
+    border-radius:20px 20px 20px 20px  ;
+    color: rgb(0, 0, 0);
+    font-style: oblique;width: 40px;
+    height:40px;
+}
+.x{
+    background-color: yellow;
+    border-radius:20px 20px 20px 20px  ;
+    color: rgb(0, 0, 0);
+   ;width: 40px;
+    height:40px;
+}
+.as{
+    width: 100px;
+    border-radius:20px 20px 20px 20px  ;
+    background-color: rgb(172, 172, 172);
+}
